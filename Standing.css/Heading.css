@@ -1,0 +1,8 @@
+.standing-header{
+    background-color: rgb(120, 121, 121);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+     height: 150px;
+     border-radius: 30px;
+     font-size: 40px;
+     color: white;
+}
