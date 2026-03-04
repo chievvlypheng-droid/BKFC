@@ -1,0 +1,29 @@
+.Welcome-header{
+    position: absolute;
+    top:0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0px;
+    height: 60px;
+    width: 100%;
+    background-color: rgb(30, 17, 145);
+    color: rgba(255, 255, 255, 0.829);
+    margin-bottom: 0px;
+}
+.welcome-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    width: 200px;
+    margin-left: 15px;
+}
+.club-sponsor{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sponsorship-logo{
+     width: 80px;
+     height: 70px;
+}
