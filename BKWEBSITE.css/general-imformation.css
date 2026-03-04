@@ -37,24 +37,18 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
     transition: 0.15s;
 }
-.Background{
-    margin-top: 720px;
-    width: 300px;
-    display: block;
+.About-us{
+    margin-top: 700px;
+    
 }
-.detail-imformation{
-display: block;
-}
-.about-us{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 50px;
+.about-us-text{
+    font-size: 80px;
     font-weight: bold;
-    color: rgb(20, 20, 20);
-    margin-left: 10px;
-    margin-bottom: 5px;
 }
-p{
-   width: 1265px;
-   margin-left:10px;
-   font-size: 19px;
+.Paragraph{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-bottom: 20px;
+    font-size: 22px;
 }
